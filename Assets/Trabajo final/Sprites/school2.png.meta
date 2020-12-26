@@ -1,0 +1,3800 @@
+fileFormatVersion: 2
+guid: a3946d219f8dec547bb1e2d23f9fed0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1478051409925297704
+    second: school2_0
+  - first:
+      213: -5953047546139674824
+    second: school2_1
+  - first:
+      213: -8112751743940421150
+    second: school2_2
+  - first:
+      213: -730976059243161538
+    second: school2_3
+  - first:
+      213: 199250647067011534
+    second: school2_4
+  - first:
+      213: -5199692467809069107
+    second: school2_5
+  - first:
+      213: 2403825605702620351
+    second: school2_6
+  - first:
+      213: 8341027006917975469
+    second: school2_7
+  - first:
+      213: -2996666842704074838
+    second: school2_8
+  - first:
+      213: -8366470665296171880
+    second: school2_9
+  - first:
+      213: 2971039060902249663
+    second: school2_10
+  - first:
+      213: -7370903307421654334
+    second: school2_11
+  - first:
+      213: 3474446993686403
+    second: school2_12
+  - first:
+      213: 2398288225795153520
+    second: school2_13
+  - first:
+      213: -7113878571397792787
+    second: school2_14
+  - first:
+      213: 1096209792127781688
+    second: school2_15
+  - first:
+      213: 8697434086338138221
+    second: school2_16
+  - first:
+      213: 2788065385086514205
+    second: school2_17
+  - first:
+      213: -1548883047114666358
+    second: school2_18
+  - first:
+      213: -8893663628674867338
+    second: school2_19
+  - first:
+      213: -9078253641980350059
+    second: school2_20
+  - first:
+      213: 7777254335024478405
+    second: school2_21
+  - first:
+      213: 572627510735258910
+    second: school2_22
+  - first:
+      213: -2024639588263886466
+    second: school2_23
+  - first:
+      213: 3885836588193538328
+    second: school2_24
+  - first:
+      213: 3253200432354947978
+    second: school2_25
+  - first:
+      213: 2697740598541402995
+    second: school2_26
+  - first:
+      213: 6371918239547758993
+    second: school2_27
+  - first:
+      213: -6656754712495067955
+    second: school2_28
+  - first:
+      213: 5053107130062630790
+    second: school2_29
+  - first:
+      213: 2875539552531657287
+    second: school2_30
+  - first:
+      213: -7964454786485127130
+    second: school2_31
+  - first:
+      213: 4983984094105494624
+    second: school2_32
+  - first:
+      213: -1825955484476257604
+    second: school2_33
+  - first:
+      213: -4262991165886330919
+    second: school2_34
+  - first:
+      213: -7899731027022811178
+    second: school2_35
+  - first:
+      213: -7821554442030886410
+    second: school2_36
+  - first:
+      213: -1173876591822910237
+    second: school2_37
+  - first:
+      213: -6721191636410316087
+    second: school2_38
+  - first:
+      213: 7090797072286113049
+    second: school2_39
+  - first:
+      213: 5698526470667940762
+    second: school2_40
+  - first:
+      213: 2276041017898408895
+    second: school2_41
+  - first:
+      213: 12857289432173545
+    second: school2_42
+  - first:
+      213: -5400122902987550324
+    second: school2_43
+  - first:
+      213: 4105302087111619457
+    second: school2_44
+  - first:
+      213: -793006748346405575
+    second: school2_45
+  - first:
+      213: -8978387956323356328
+    second: school2_46
+  - first:
+      213: 8317287431724683564
+    second: school2_47
+  - first:
+      213: 8183375311645476694
+    second: school2_48
+  - first:
+      213: -4597674598276558001
+    second: school2_49
+  - first:
+      213: -7357813781465397232
+    second: school2_50
+  - first:
+      213: -4071723083670755707
+    second: school2_51
+  - first:
+      213: -3040549167254289467
+    second: school2_52
+  - first:
+      213: 8235795840675158223
+    second: school2_53
+  - first:
+      213: 3295021180249454398
+    second: school2_54
+  - first:
+      213: 5557473458153979301
+    second: school2_55
+  - first:
+      213: -1610375821973443455
+    second: school2_56
+  - first:
+      213: -2288158005189169378
+    second: school2_57
+  - first:
+      213: -8798574461718302836
+    second: school2_58
+  - first:
+      213: 7814453481569575132
+    second: school2_59
+  - first:
+      213: 4026946889691633549
+    second: school2_60
+  - first:
+      213: -5283913274356243029
+    second: school2_61
+  - first:
+      213: -5289665312436569285
+    second: school2_62
+  - first:
+      213: -6060066270387403556
+    second: school2_63
+  - first:
+      213: -8641769028613195676
+    second: school2_64
+  - first:
+      213: -490391724549646941
+    second: school2_65
+  - first:
+      213: -8537041628599856799
+    second: school2_66
+  - first:
+      213: -2780486945236435187
+    second: school2_67
+  - first:
+      213: 5957901187436621420
+    second: school2_68
+  - first:
+      213: -411274937408513583
+    second: school2_69
+  - first:
+      213: -4308771008463583073
+    second: school2_70
+  - first:
+      213: 925642105811576464
+    second: school2_71
+  - first:
+      213: 1360265689240736860
+    second: school2_72
+  - first:
+      213: -3734031657290597786
+    second: school2_73
+  - first:
+      213: 8454414512011462595
+    second: school2_74
+  - first:
+      213: 7860837768041160772
+    second: school2_75
+  - first:
+      213: 6264882488738097980
+    second: school2_76
+  - first:
+      213: -7300247285479452756
+    second: school2_77
+  - first:
+      213: -4430139288237419982
+    second: school2_78
+  - first:
+      213: -2594335834418643627
+    second: school2_79
+  - first:
+      213: 2604923132869978428
+    second: school2_80
+  - first:
+      213: -5266887955863778302
+    second: school2_81
+  - first:
+      213: 2623603763576108834
+    second: school2_82
+  - first:
+      213: -394356945884786835
+    second: school2_83
+  - first:
+      213: -6690976884864090583
+    second: school2_84
+  - first:
+      213: -8269161005477810067
+    second: school2_85
+  - first:
+      213: -3166644889452636223
+    second: school2_86
+  - first:
+      213: -4660552628535858222
+    second: school2_87
+  - first:
+      213: 4560615355239362569
+    second: school2_88
+  - first:
+      213: -8880538802923558023
+    second: school2_89
+  - first:
+      213: 1571118803057389820
+    second: school2_90
+  - first:
+      213: 5965501419924568358
+    second: school2_91
+  - first:
+      213: -7999683535684067100
+    second: school2_92
+  - first:
+      213: 3897082689625358572
+    second: school2_93
+  - first:
+      213: 4830328301971504011
+    second: school2_94
+  - first:
+      213: 5919341913629706578
+    second: school2_95
+  - first:
+      213: 6266139907826470094
+    second: school2_96
+  - first:
+      213: 1112471069457717476
+    second: school2_97
+  - first:
+      213: -4387495448312529779
+    second: school2_98
+  - first:
+      213: -2747733344974449017
+    second: school2_99
+  - first:
+      213: 2272229742545341472
+    second: school2_100
+  - first:
+      213: -8100223677296081090
+    second: school2_101
+  - first:
+      213: 5498961165508911400
+    second: school2_102
+  - first:
+      213: 83508423018289417
+    second: school2_103
+  - first:
+      213: 8214074778472823226
+    second: school2_104
+  - first:
+      213: 7037698015096423142
+    second: school2_105
+  - first:
+      213: -3368495920419689110
+    second: school2_106
+  - first:
+      213: 5468909714217621526
+    second: school2_107
+  - first:
+      213: -7257145029694952995
+    second: school2_108
+  - first:
+      213: 4950359080630316872
+    second: school2_109
+  - first:
+      213: 3952008171440199543
+    second: school2_110
+  - first:
+      213: 6706190724903491691
+    second: school2_111
+  - first:
+      213: 5974790480282720570
+    second: school2_112
+  - first:
+      213: -1244260738787630113
+    second: school2_113
+  - first:
+      213: 1864256833069082667
+    second: school2_114
+  - first:
+      213: 1064593365827632621
+    second: school2_115
+  - first:
+      213: 4097321461460579091
+    second: school2_116
+  - first:
+      213: 7492059106390839616
+    second: school2_117
+  - first:
+      213: -1148495062104720503
+    second: school2_118
+  - first:
+      213: 4182423719713363892
+    second: school2_119
+  - first:
+      213: -2240017916960841547
+    second: school2_120
+  - first:
+      213: -2476461448705072545
+    second: school2_121
+  - first:
+      213: 7512545898865881574
+    second: school2_122
+  - first:
+      213: 4418971160230306572
+    second: school2_123
+  - first:
+      213: -8623364103839599051
+    second: school2_124
+  - first:
+      213: 4266963593948197320
+    second: school2_125
+  - first:
+      213: 6449002664185915426
+    second: school2_126
+  - first:
+      213: 1355428693387505377
+    second: school2_127
+  - first:
+      213: -4215963851681306972
+    second: school2_128
+  - first:
+      213: 164555372454014666
+    second: school2_129
+  - first:
+      213: 429948125892461766
+    second: school2_130
+  - first:
+      213: -5186380946029905820
+    second: school2_131
+  - first:
+      213: -6681800269777152912
+    second: school2_132
+  - first:
+      213: -2677185098486797679
+    second: school2_133
+  - first:
+      213: 2630532422052250057
+    second: school2_134
+  - first:
+      213: -7928162724132744101
+    second: school2_135
+  - first:
+      213: -5117123682756436381
+    second: school2_136
+  - first:
+      213: 4191268809093668030
+    second: school2_137
+  - first:
+      213: 9003302427782016354
+    second: school2_138
+  - first:
+      213: 53170332703370177
+    second: school2_139
+  - first:
+      213: 7621777294088310901
+    second: school2_140
+  - first:
+      213: -2444874445432985872
+    second: school2_141
+  - first:
+      213: 4956614616129642208
+    second: school2_142
+  - first:
+      213: 841732906008035921
+    second: school2_143
+  - first:
+      213: -8894466525286894479
+    second: school2_144
+  - first:
+      213: -1176849556486966398
+    second: school2_145
+  - first:
+      213: -5875696009404176514
+    second: school2_146
+  - first:
+      213: -212825359474258064
+    second: school2_147
+  - first:
+      213: 864121536350578485
+    second: school2_148
+  - first:
+      213: 3477794933669950972
+    second: school2_149
+  - first:
+      213: 1023011551769606862
+    second: school2_150
+  - first:
+      213: -567652456326953240
+    second: school2_151
+  - first:
+      213: 8815430696156186046
+    second: school2_152
+  - first:
+      213: -969785653400650383
+    second: school2_153
+  - first:
+      213: 192488334370050994
+    second: school2_154
+  - first:
+      213: -5247961240570946576
+    second: school2_155
+  - first:
+      213: -4226909259628843032
+    second: school2_156
+  - first:
+      213: -722382012080724702
+    second: school2_157
+  - first:
+      213: 8200147439992152510
+    second: school2_158
+  - first:
+      213: 1644570062230464561
+    second: school2_159
+  - first:
+      213: -3462006256747297412
+    second: school2_160
+  - first:
+      213: 5768307892325738962
+    second: school2_161
+  - first:
+      213: 2703537657827188899
+    second: school2_162
+  - first:
+      213: 7508034227444933182
+    second: school2_163
+  - first:
+      213: -8285028052008485300
+    second: school2_164
+  - first:
+      213: 7126105585372048068
+    second: school2_165
+  - first:
+      213: -7777793117622737583
+    second: school2_166
+  - first:
+      213: -3048087058883999161
+    second: school2_167
+  - first:
+      213: 112760977108103832
+    second: school2_168
+  - first:
+      213: -1187825251378067808
+    second: school2_169
+  - first:
+      213: 4090195614178174678
+    second: school2_170
+  - first:
+      213: 318305883397444855
+    second: school2_171
+  - first:
+      213: -4551340625349962570
+    second: school2_172
+  - first:
+      213: -1191783943280186158
+    second: school2_173
+  - first:
+      213: -7836792845993854533
+    second: school2_174
+  - first:
+      213: 6550958279209482917
+    second: school2_175
+  - first:
+      213: 6581744515121721909
+    second: school2_176
+  - first:
+      213: 2281387963363714378
+    second: school2_177
+  - first:
+      213: 8729757904902787504
+    second: school2_178
+  - first:
+      213: 26571510557070564
+    second: school2_179
+  - first:
+      213: 4750914412500031727
+    second: school2_180
+  - first:
+      213: -6237769187995445586
+    second: school2_181
+  - first:
+      213: -6216555185367124438
+    second: school2_182
+  - first:
+      213: 1118185161251458526
+    second: school2_183
+  - first:
+      213: 6689795921743225584
+    second: school2_184
+  - first:
+      213: 5330904707903145635
+    second: school2_185
+  - first:
+      213: -1853959634859704139
+    second: school2_186
+  - first:
+      213: -8261100175570240935
+    second: school2_187
+  - first:
+      213: -7225229527769128144
+    second: school2_188
+  - first:
+      213: 8293709110544673618
+    second: school2_189
+  - first:
+      213: 3762724864858867790
+    second: school2_190
+  - first:
+      213: -7018606823680803509
+    second: school2_191
+  - first:
+      213: -1311213612732674638
+    second: school2_192
+  - first:
+      213: -3499975581132402436
+    second: school2_193
+  - first:
+      213: 8893480325807436014
+    second: school2_194
+  - first:
+      213: 17245906031479362
+    second: school2_195
+  - first:
+      213: -6244766362992830063
+    second: school2_196
+  - first:
+      213: -7858222098606430222
+    second: school2_197
+  - first:
+      213: 3078457622901469384
+    second: school2_198
+  - first:
+      213: -2484436260203610692
+    second: school2_199
+  - first:
+      213: -9156810963108446106
+    second: school2_200
+  - first:
+      213: -5761125084680768191
+    second: school2_201
+  - first:
+      213: 2695772550446088293
+    second: school2_202
+  - first:
+      213: -3849300847720523052
+    second: school2_203
+  - first:
+      213: 1949536537166318782
+    second: school2_204
+  - first:
+      213: 6472107062284596842
+    second: school2_205
+  - first:
+      213: 2813821678673136802
+    second: school2_206
+  - first:
+      213: -3258172503873248334
+    second: school2_207
+  - first:
+      213: -7892152756169362294
+    second: school2_208
+  - first:
+      213: -7604967702467703034
+    second: school2_209
+  - first:
+      213: 1204738782489439402
+    second: school2_210
+  - first:
+      213: 5593565817767346617
+    second: school2_211
+  - first:
+      213: 8989160529773837166
+    second: school2_212
+  - first:
+      213: 5410145285914441154
+    second: school2_213
+  - first:
+      213: 666370764418310119
+    second: school2_214
+  - first:
+      213: -5805628616713886321
+    second: school2_215
+  - first:
+      213: -5326090742510372860
+    second: school2_216
+  - first:
+      213: 7551527834304457145
+    second: school2_217
+  - first:
+      213: 8099540859244636335
+    second: school2_218
+  - first:
+      213: 2933366637209563842
+    second: school2_219
+  - first:
+      213: -3669489603559752915
+    second: school2_220
+  - first:
+      213: -8527471240130373925
+    second: school2_221
+  - first:
+      213: 2057706120616091313
+    second: school2_222
+  - first:
+      213: -7519864802089214840
+    second: school2_223
+  - first:
+      213: -7031177609918554023
+    second: school2_224
+  - first:
+      213: 438831848874402137
+    second: school2_225
+  - first:
+      213: 6079511464644555643
+    second: school2_226
+  - first:
+      213: 5485995418230190968
+    second: school2_227
+  - first:
+      213: 5259772485016333349
+    second: school2_228
+  - first:
+      213: -1697905870977093017
+    second: school2_229
+  - first:
+      213: -4922916535358387068
+    second: school2_230
+  - first:
+      213: 8675933709948420616
+    second: school2_231
+  - first:
+      213: -7871363799945222610
+    second: school2_232
+  - first:
+      213: -1691303246132675272
+    second: school2_233
+  - first:
+      213: 8616644826445180279
+    second: school2_234
+  - first:
+      213: 8646035005497029345
+    second: school2_235
+  - first:
+      213: -5364058865661328032
+    second: school2_236
+  - first:
+      213: 4448129498005887017
+    second: school2_237
+  - first:
+      213: 5958763359972857703
+    second: school2_238
+  - first:
+      213: 640960313190079849
+    second: school2_239
+  - first:
+      213: 7581695899101483724
+    second: school2_240
+  - first:
+      213: -7492258817106072137
+    second: school2_241
+  - first:
+      213: 1026678235015300001
+    second: school2_242
+  - first:
+      213: -3861959987329379583
+    second: school2_243
+  - first:
+      213: -5537908312737813095
+    second: school2_244
+  - first:
+      213: 7484223162179151681
+    second: school2_245
+  - first:
+      213: 5448008909110638814
+    second: school2_246
+  - first:
+      213: 530007445595238173
+    second: school2_247
+  - first:
+      213: 4767591285455000870
+    second: school2_248
+  - first:
+      213: 6463520060844510282
+    second: school2_249
+  - first:
+      213: 3859352116052369367
+    second: school2_250
+  - first:
+      213: 3382407414755379074
+    second: school2_251
+  - first:
+      213: -6759100987533634432
+    second: school2_252
+  - first:
+      213: 1304236762316237254
+    second: school2_253
+  - first:
+      213: -4045351073250770139
+    second: school2_254
+  - first:
+      213: 1734512612162249233
+    second: school2_255
+  - first:
+      213: -6539289093946800413
+    second: school2_256
+  - first:
+      213: -2345465583334232456
+    second: school2_257
+  - first:
+      213: -3869116808835044664
+    second: school2_258
+  - first:
+      213: 3842383124244070997
+    second: school2_259
+  - first:
+      213: -1942138679312262564
+    second: school2_260
+  - first:
+      213: 1590560903741872676
+    second: school2_261
+  - first:
+      213: -7780466003522117238
+    second: school2_262
+  - first:
+      213: -9132656873955557905
+    second: school2_263
+  - first:
+      213: 8671993903314734303
+    second: school2_264
+  - first:
+      213: 5954502112839358174
+    second: school2_265
+  - first:
+      213: 5542936085602436399
+    second: school2_266
+  - first:
+      213: -9049642548739009398
+    second: school2_267
+  - first:
+      213: -1810909409493300884
+    second: school2_268
+  - first:
+      213: -3269312206775595198
+    second: school2_269
+  - first:
+      213: -5028707579520633345
+    second: school2_270
+  - first:
+      213: -5770451356024518226
+    second: school2_271
+  - first:
+      213: 2430154281585509852
+    second: school2_272
+  - first:
+      213: -1270692668923026158
+    second: school2_273
+  - first:
+      213: 4556617285738840852
+    second: school2_274
+  - first:
+      213: -8181168122881303907
+    second: school2_275
+  - first:
+      213: 8264280896292658284
+    second: school2_276
+  - first:
+      213: -6688081183898839397
+    second: school2_277
+  - first:
+      213: 3739050196517401234
+    second: school2_278
+  - first:
+      213: -5460458916856763213
+    second: school2_279
+  - first:
+      213: -253135814858046518
+    second: school2_280
+  - first:
+      213: 3608329247576585530
+    second: school2_281
+  - first:
+      213: 2511759514752694646
+    second: school2_282
+  - first:
+      213: 7615388579193729130
+    second: school2_283
+  - first:
+      213: 272925814548596128
+    second: school2_284
+  - first:
+      213: -8153135351195764623
+    second: school2_285
+  - first:
+      213: -377736993179751407
+    second: school2_286
+  - first:
+      213: 1100034285403128437
+    second: school2_287
+  - first:
+      213: 2514971705465202431
+    second: school2_288
+  - first:
+      213: 3106137794502310511
+    second: school2_289
+  - first:
+      213: 109468604543810119
+    second: school2_290
+  - first:
+      213: -8569379103768689642
+    second: school2_291
+  - first:
+      213: 5641829692587650571
+    second: school2_292
+  - first:
+      213: 4929257440685286488
+    second: school2_293
+  - first:
+      213: -5969966660335482496
+    second: school2_294
+  - first:
+      213: -188683547570216221
+    second: school2_295
+  - first:
+      213: -8274272982020166038
+    second: school2_296
+  - first:
+      213: -3974369780392230377
+    second: school2_297
+  - first:
+      213: -1894591276791827104
+    second: school2_298
+  - first:
+      213: 2273892883242259900
+    second: school2_299
+  - first:
+      213: 8017414413479191264
+    second: school2_300
+  - first:
+      213: 663974640720054860
+    second: school2_301
+  - first:
+      213: 7800047391348101359
+    second: school2_302
+  - first:
+      213: 4273433678773756094
+    second: school2_303
+  - first:
+      213: -6118298839540901832
+    second: school2_304
+  - first:
+      213: -661401042277924458
+    second: school2_305
+  - first:
+      213: -3015667673758248530
+    second: school2_306
+  - first:
+      213: -3990684325604774595
+    second: school2_307
+  - first:
+      213: 8078114213368733748
+    second: school2_308
+  - first:
+      213: 8607625298947435237
+    second: school2_309
+  - first:
+      213: 2735113347903203862
+    second: school2_310
+  - first:
+      213: 7565630239591358856
+    second: school2_311
+  - first:
+      213: -547135718437403822
+    second: school2_312
+  - first:
+      213: 1460899451614343954
+    second: school2_313
+  - first:
+      213: -5001169530733437773
+    second: school2_314
+  - first:
+      213: -8278247307481855807
+    second: school2_315
+  - first:
+      213: -8852071543914887165
+    second: school2_316
+  - first:
+      213: 4269626015146261675
+    second: school2_317
+  - first:
+      213: 6017988007765709506
+    second: school2_318
+  - first:
+      213: -4915837144723566785
+    second: school2_319
+  - first:
+      213: 1294290646783504106
+    second: school2_320
+  - first:
+      213: -8692549032028202120
+    second: school2_321
+  - first:
+      213: -8407720932779977592
+    second: school2_322
+  - first:
+      213: -5439304482440345163
+    second: school2_323
+  - first:
+      213: 3648822690557347351
+    second: school2_324
+  - first:
+      213: 596180363784631719
+    second: school2_325
+  - first:
+      213: -7154891826430045497
+    second: school2_326
+  - first:
+      213: 4833340023772794319
+    second: school2_327
+  - first:
+      213: -6319624147150060384
+    second: school2_328
+  - first:
+      213: 1007646941092228917
+    second: school2_329
+  - first:
+      213: -2931529039404303820
+    second: school2_330
+  - first:
+      213: 4244897446262158146
+    second: school2_331
+  - first:
+      213: 3596674124686596818
+    second: school2_332
+  - first:
+      213: -5028875314996910261
+    second: school2_333
+  - first:
+      213: 7381605079739453815
+    second: school2_334
+  - first:
+      213: -6271435805596683468
+    second: school2_335
+  - first:
+      213: 7986875488176682191
+    second: school2_336
+  - first:
+      213: -374165058831753597
+    second: school2_337
+  - first:
+      213: 5274221582989100463
+    second: school2_338
+  - first:
+      213: 1627693668774281367
+    second: school2_339
+  - first:
+      213: 3425233068245275212
+    second: school2_340
+  - first:
+      213: -5903816782174584504
+    second: school2_341
+  - first:
+      213: 3884016374702056622
+    second: school2_342
+  - first:
+      213: -2547559045695738775
+    second: school2_343
+  - first:
+      213: -822491588794255295
+    second: school2_344
+  - first:
+      213: -443003305199850469
+    second: school2_345
+  - first:
+      213: -2311042674378383070
+    second: school2_346
+  - first:
+      213: -6953311341214196082
+    second: school2_347
+  - first:
+      213: -6345095732860338880
+    second: school2_348
+  - first:
+      213: 6102549315762801578
+    second: school2_349
+  - first:
+      213: -1447843107662335232
+    second: school2_350
+  - first:
+      213: -7806671489441570310
+    second: school2_351
+  - first:
+      213: 5940809664791866370
+    second: school2_352
+  - first:
+      213: 3204611645991493319
+    second: school2_353
+  - first:
+      213: 5822747337161342748
+    second: school2_354
+  - first:
+      213: 7226743870928024006
+    second: school2_355
+  - first:
+      213: 9009186594337401991
+    second: school2_356
+  - first:
+      213: -3770400661830938844
+    second: school2_357
+  - first:
+      213: -6190648240174992963
+    second: school2_358
+  - first:
+      213: -7262480904166800275
+    second: school2_359
+  - first:
+      213: -7751481539312395417
+    second: school2_360
+  - first:
+      213: 6343767786520368529
+    second: school2_361
+  - first:
+      213: -3755321354684094856
+    second: school2_362
+  - first:
+      213: 2509102508063105055
+    second: school2_363
+  - first:
+      213: -3974145752008011106
+    second: school2_364
+  - first:
+      213: 513662436342614093
+    second: school2_365
+  - first:
+      213: 1694774106405756451
+    second: school2_366
+  - first:
+      213: 4172288808390294750
+    second: school2_367
+  - first:
+      213: 8804405220016369371
+    second: school2_368
+  - first:
+      213: -5854173965514692528
+    second: school2_369
+  - first:
+      213: 5866084112429447452
+    second: school2_370
+  - first:
+      213: 855841080477645872
+    second: school2_371
+  - first:
+      213: -6297754176127506163
+    second: school2_372
+  - first:
+      213: -7991135113767723547
+    second: school2_373
+  - first:
+      213: -256108759394836166
+    second: school2_374
+  - first:
+      213: 8144394542698376215
+    second: school2_375
+  - first:
+      213: -4728344732968312749
+    second: school2_376
+  - first:
+      213: 7458613209290787908
+    second: school2_377
+  - first:
+      213: 1290890448625172950
+    second: school2_378
+  - first:
+      213: -2351770117375144045
+    second: school2_379
+  - first:
+      213: -6142852081454952500
+    second: school2_380
+  - first:
+      213: -3538804673797628567
+    second: school2_381
+  - first:
+      213: 7700892495203510769
+    second: school2_382
+  - first:
+      213: -2041290033414866873
+    second: school2_383
+  - first:
+      213: 967534293490865393
+    second: school2_384
+  - first:
+      213: -2368059536939199645
+    second: school2_385
+  - first:
+      213: -3503751651595899726
+    second: school2_386
+  - first:
+      213: -7087351866642788320
+    second: school2_387
+  - first:
+      213: -7763444409996423588
+    second: school2_388
+  - first:
+      213: 8625865939252777272
+    second: school2_389
+  - first:
+      213: -8237612941639164002
+    second: school2_390
+  - first:
+      213: -3214257516651073683
+    second: school2_391
+  - first:
+      213: -7806365006909607353
+    second: school2_392
+  - first:
+      213: 7990542478972712604
+    second: school2_393
+  - first:
+      213: 4126708826071199117
+    second: school2_394
+  - first:
+      213: -3424688695187471560
+    second: school2_395
+  - first:
+      213: -2718836410642722168
+    second: school2_396
+  - first:
+      213: -6036972546199692064
+    second: school2_397
+  - first:
+      213: -3831742471632966606
+    second: school2_398
+  - first:
+      213: 856724542991004695
+    second: school2_399
+  - first:
+      213: 5207052297517172828
+    second: school2_400
+  - first:
+      213: -4997147235017400171
+    second: school2_401
+  - first:
+      213: -5847792243443965098
+    second: school2_402
+  - first:
+      213: 1365373893777315975
+    second: school2_403
+  - first:
+      213: -1487969310991341705
+    second: school2_404
+  - first:
+      213: 1705317516195129091
+    second: school2_405
+  - first:
+      213: -3614903859029742386
+    second: school2_406
+  - first:
+      213: 4982736620477076515
+    second: school2_407
+  - first:
+      213: -4469913822647342016
+    second: school2_408
+  - first:
+      213: 344263867814827721
+    second: school2_409
+  - first:
+      213: 5087022921092536088
+    second: school2_410
+  - first:
+      213: -9102698360575684443
+    second: school2_411
+  - first:
+      213: 4005697827559262898
+    second: school2_412
+  - first:
+      213: 795194092371938731
+    second: school2_413
+  - first:
+      213: 4779531357618534230
+    second: school2_414
+  - first:
+      213: -2820375837580714674
+    second: school2_415
+  - first:
+      213: 4021562788871179249
+    second: school2_416
+  - first:
+      213: -3339501184156302271
+    second: school2_417
+  - first:
+      213: 1491718431536176522
+    second: school2_418
+  - first:
+      213: -1822181163270901058
+    second: school2_419
+  - first:
+      213: -8123404505312785545
+    second: school2_420
+  - first:
+      213: -524887846373517852
+    second: school2_421
+  - first:
+      213: -3187795212682658106
+    second: school2_422
+  - first:
+      213: -4489895299955535715
+    second: school2_423
+  - first:
+      213: -3564206776625990631
+    second: school2_424
+  - first:
+      213: 2654593999708600461
+    second: school2_425
+  - first:
+      213: 8520063915021215434
+    second: school2_426
+  - first:
+      213: -4293861150776739572
+    second: school2_427
+  - first:
+      213: -5281144909405596092
+    second: school2_428
+  - first:
+      213: -2476263745726594170
+    second: school2_429
+  - first:
+      213: -5326109670279099994
+    second: school2_430
+  - first:
+      213: 8242982256473067078
+    second: school2_431
+  - first:
+      213: 5502530481767864935
+    second: school2_432
+  - first:
+      213: -8750294935691016373
+    second: school2_433
+  - first:
+      213: 4222391429408780161
+    second: school2_434
+  - first:
+      213: 66614383759020004
+    second: school2_435
+  - first:
+      213: -2339705602175997597
+    second: school2_436
+  - first:
+      213: 5049842058086789960
+    second: school2_437
+  - first:
+      213: 4092004546340451826
+    second: school2_438
+  - first:
+      213: 1859658119239239998
+    second: school2_439
+  - first:
+      213: 1177813818204124139
+    second: school2_440
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: school2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 144
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d923afd218ec7be0800000000000000
+      internalID: -1478051409925297704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 507
+        width: 24
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e91087a547b96f80800000000000000
+      internalID: -8112751743940421150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 578
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381f71a52d0bd5f0800000000000000
+      internalID: -730976059243161538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 577
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec922b76861e3c200800000000000000
+      internalID: 199250647067011534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 577
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc757faef3bf6d7b0800000000000000
+      internalID: -5199692467809069107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 577
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb494e107aa1c5120800000000000000
+      internalID: 2403825605702620351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1941ced741c370800000000000000
+      internalID: 8341027006917975469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 528
+        width: 31
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ae623263b966d0800000000000000
+      internalID: -2996666842704074838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 528
+        width: 31
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cab43e14354eb80800000000000000
+      internalID: -8366470665296171880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 528
+        width: 22
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb483eed8404b3920800000000000000
+      internalID: 2971039060902249663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 529
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2616f9e7a45b990800000000000000
+      internalID: -7370903307421654334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 529
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f79dabdf75c0000800000000000000
+      internalID: 3474446993686403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 529
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e95874f6e684120800000000000000
+      internalID: 2398288225795153520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 529
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb3298512d664d90800000000000000
+      internalID: -7113878571397792787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc41b7ff4863f00800000000000000
+      internalID: 1096209792127781688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 498
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f4a822b231b620800000000000000
+      internalID: 2788065385086514205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 410
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0b123313418ae0800000000000000
+      internalID: -1548883047114666358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 410
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd505ec0c539480800000000000000
+      internalID: -8893663628674867338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 407
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5917dd84960930280800000000000000
+      internalID: -9078253641980350059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 407
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8300fac9b5eeb60800000000000000
+      internalID: 7777254335024478405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 406
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15cdf5efa162f700800000000000000
+      internalID: 572627510735258910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_23
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 406
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71865f750907e3e0800000000000000
+      internalID: -2024639588263886466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 408
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811ed76f9c34de530800000000000000
+      internalID: 3885836588193538328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 408
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f9a99e80b52d20800000000000000
+      internalID: 3253200432354947978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 410
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c538f7cc407520800000000000000
+      internalID: 2697740598541402995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_27
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 410
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199931601e99d6850800000000000000
+      internalID: 6371918239547758993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 407
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce2d4abd47e93a0800000000000000
+      internalID: -6656754712495067955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_29
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 408
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f606b892e302640800000000000000
+      internalID: 5053107130062630790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 394
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7423c3edcf7f7e720800000000000000
+      internalID: 2875539552531657287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 392
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f4e5b192987190800000000000000
+      internalID: -7964454786485127130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 391
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ea57902baa2540800000000000000
+      internalID: 4983984094105494624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 389
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbacd144927e8a6e0800000000000000
+      internalID: -1825955484476257604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d787b4fe10d6d4c0800000000000000
+      internalID: -4262991165886330919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 388
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6c294c748e5290800000000000000
+      internalID: -7899731027022811178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_36
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 392
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1de53eca1447390800000000000000
+      internalID: -7821554442030886410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_37
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 390
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccf3e857d85bfe0800000000000000
+      internalID: -1173876591822910237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_38
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 394
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cacf6c21d789b2a0800000000000000
+      internalID: -6721191636410316087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 392
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d5efb5e52976260800000000000000
+      internalID: 7090797072286113049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 391
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b25b02ab351f40800000000000000
+      internalID: 5698526470667940762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 390
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9d0e2f3f169f10800000000000000
+      internalID: 2276041017898408895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 294
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0169f2adad2000800000000000000
+      internalID: 12857289432173545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_43
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 294
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d9ffa4d8ee05b0800000000000000
+      internalID: -5400122902987550324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 294
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18335f55f76f8f830800000000000000
+      internalID: 4105302087111619457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 294
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d235c509caef4f0800000000000000
+      internalID: -793006748346405575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 294
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85173b729bb566380800000000000000
+      internalID: -8978387956323356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 294
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2155ce2ad0fc6370800000000000000
+      internalID: 8317287431724683564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 253
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65784521d70319170800000000000000
+      internalID: 8183375311645476694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_49
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 256
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4393e8ff47c130c0800000000000000
+      internalID: -4597674598276558001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_50
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 243
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0180840695bc3e990800000000000000
+      internalID: -7357813781465397232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 243
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586eb06ad655e77c0800000000000000
+      internalID: -4071723083670755707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_52
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 253
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c2b354accdc5d0800000000000000
+      internalID: -3040549167254289467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_53
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 256
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc815169eac6b4270800000000000000
+      internalID: 8235795840675158223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_54
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 243
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3738204e444abd20800000000000000
+      internalID: 3295021180249454398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_55
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 243
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adfde95aac102d40800000000000000
+      internalID: 5557473458153979301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c2568d8bbc6a9e0800000000000000
+      internalID: -1610375821973443455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 195
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fabbeda64de30e0800000000000000
+      internalID: -2288158005189169378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe477d42f25e580800000000000000
+      internalID: -8798574461718302836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 155
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e4cae904827c60800000000000000
+      internalID: 7814453481569575132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_60
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 205
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d871f694cd692e730800000000000000
+      internalID: 4026946889691633549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 208
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba566025fd4cba6b0800000000000000
+      internalID: -5283913274356243029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_62
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 195
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b33879c655796b0800000000000000
+      internalID: -5289665312436569285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_63
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 195
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48b3ea5d156eba0800000000000000
+      internalID: -6060066270387403556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_64
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 205
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b982cad4421880800000000000000
+      internalID: -8641769028613195676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 208
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a55d612357c139f0800000000000000
+      internalID: -490391724549646941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_66
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 195
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615596bed5568980800000000000000
+      internalID: -8537041628599856799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_67
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 195
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f329edad9b969d0800000000000000
+      internalID: -2780486945236435187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99eba9f9bda4af0800000000000000
+      internalID: -411274937408513583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_70
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 157
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c60eb89b2434c0800000000000000
+      internalID: -4308771008463583073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_71
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 160
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0962b0a479a88dc00800000000000000
+      internalID: 925642105811576464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_72
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 147
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c549857ff62a0e210800000000000000
+      internalID: 1360265689240736860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 147
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a712fcdfd0e2cc0800000000000000
+      internalID: -3734031657290597786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_74
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 157
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7c95c843d145570800000000000000
+      internalID: 8454414512011462595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_75
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 160
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44061113d4e471d60800000000000000
+      internalID: 7860837768041160772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_76
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 147
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bacc44e6551f650800000000000000
+      internalID: 6264882488738097980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_77
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 147
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafcc70b5cf40ba90800000000000000
+      internalID: -7300247285479452756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 105
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2325b1b0acbf482c0800000000000000
+      internalID: -4430139288237419982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_79
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 109
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df861dd411ffbd0800000000000000
+      internalID: -2594335834418643627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_80
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 106
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a9e1b9cb862420800000000000000
+      internalID: 2604923132869978428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_81
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 106
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc4fe2f4148e6b0800000000000000
+      internalID: -5266887955863778302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_82
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 105
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227f457f8b9e86420800000000000000
+      internalID: 2623603763576108834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_83
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 109
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f44d57276f68af0800000000000000
+      internalID: -394356945884786835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_84
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 106
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e735939ffd423a0800000000000000
+      internalID: -6690976884864090583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_85
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 106
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60bbfd90e90e3d80800000000000000
+      internalID: -8269161005477810067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 57
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c79e5a2041dd04d0800000000000000
+      internalID: -3166644889452636223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_87
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 61
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6b17b314625fb0800000000000000
+      internalID: -4660552628535858222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_88
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 58
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900fb3e908f8a4f30800000000000000
+      internalID: 4560615355239362569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_89
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 58
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b2ba5820df1c480800000000000000
+      internalID: -8880538802923558023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_90
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 57
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03c2c2a3cbdc510800000000000000
+      internalID: 1571118803057389820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_91
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 61
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62931b15fe7b9c250800000000000000
+      internalID: 5965501419924568358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_92
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 58
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a20c553a6bf090800000000000000
+      internalID: -7999683535684067100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_93
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 58
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0817ffe08351630800000000000000
+      internalID: 3897082689625358572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_94
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bf68b9ff5c80340800000000000000
+      internalID: 4830328301971504011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 13
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259caf1cb1ab52250800000000000000
+      internalID: 5919341913629706578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 10
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc45e6fb0dc5f650800000000000000
+      internalID: 6266139907826470094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 10
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81de52b8a407f00800000000000000
+      internalID: 1112471069457717476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_98
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c30bdb22c7c13c0800000000000000
+      internalID: -4387495448312529779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_99
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 13
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865d43b4171ed9d0800000000000000
+      internalID: -2747733344974449017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_100
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 10
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c0e7c79e4988f10800000000000000
+      internalID: 2272229742545341472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_101
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 10
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370f897b79369f80800000000000000
+      internalID: -8100223677296081090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 245
+        width: 126
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601f85783e73b870800000000000000
+      internalID: 8697434086338138221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_102
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 290
+        width: 126
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a3d79b0c305c40800000000000000
+      internalID: 5498961165508911400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_103
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 339
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90912c1e77ea82100800000000000000
+      internalID: 83508423018289417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93e51bd714ef170800000000000000
+      internalID: 8214074778472823226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24b42be0deaa160800000000000000
+      internalID: 7037698015096423142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ea90c4097bea250800000000000000
+      internalID: 5957901187436621420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83775512cc6826da0800000000000000
+      internalID: -5953047546139674824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2804bec2b041d0800000000000000
+      internalID: -3368495920419689110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618df98d86875eb40800000000000000
+      internalID: 5468909714217621526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96a85ab01794b90800000000000000
+      internalID: -7257145029694952995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_109
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f699f0b5533b440800000000000000
+      internalID: 4950359080630316872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77752284e7a58d630800000000000000
+      internalID: 3952008171440199543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6854e1feec211d50800000000000000
+      internalID: 6706190724903491691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school2_112
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3913a83948bae250800000000000000
+      internalID: 5974790480282720570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
