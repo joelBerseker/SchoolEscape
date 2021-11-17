@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Trabajo final/Scenes/GameWin.unity
     guid: 518e0265e5385ff46bf4ecca7ade2bc7
+  - enabled: 1
+    path: Assets/Trabajo final/Scenes/Laberinto.unity
+    guid: 5dde11f52f97e774b9b371126a8b520b
   m_configObjects: {}

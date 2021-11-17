@@ -1,0 +1,1799 @@
+fileFormatVersion: 2
+guid: b45ad75d8eca3d544bfdde757b64da3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2630963438137969128
+    second: spritezombie_0
+  - first:
+      213: 1810578150547480330
+    second: spritezombie_1
+  - first:
+      213: 2877675379214748862
+    second: spritezombie_2
+  - first:
+      213: -2646984493845070896
+    second: spritezombie_3
+  - first:
+      213: -157539762206470692
+    second: spritezombie_4
+  - first:
+      213: 6361151190570410011
+    second: spritezombie_5
+  - first:
+      213: 1420637545659206978
+    second: spritezombie_6
+  - first:
+      213: 8165017001524868212
+    second: spritezombie_7
+  - first:
+      213: -4543330937447315451
+    second: spritezombie_8
+  - first:
+      213: 6117705997655236634
+    second: spritezombie_9
+  - first:
+      213: -1540232948437688274
+    second: spritezombie_10
+  - first:
+      213: -1848281234905226812
+    second: spritezombie_11
+  - first:
+      213: 1415349678031152387
+    second: spritezombie_12
+  - first:
+      213: -6289025487613328149
+    second: spritezombie_13
+  - first:
+      213: 3357044558922776573
+    second: spritezombie_14
+  - first:
+      213: 6537719315763812987
+    second: spritezombie_15
+  - first:
+      213: 4592831135058701260
+    second: spritezombie_16
+  - first:
+      213: -2128812116720914700
+    second: spritezombie_17
+  - first:
+      213: 2506826271298512640
+    second: spritezombie_18
+  - first:
+      213: -7601295356266603249
+    second: spritezombie_19
+  - first:
+      213: -1539069541389444420
+    second: spritezombie_20
+  - first:
+      213: -5736780237114426397
+    second: spritezombie_21
+  - first:
+      213: -3383691934462786607
+    second: spritezombie_22
+  - first:
+      213: -5758023285273531167
+    second: spritezombie_23
+  - first:
+      213: -6047750853281514432
+    second: spritezombie_24
+  - first:
+      213: 8404590855977955886
+    second: spritezombie_25
+  - first:
+      213: -160359429855639601
+    second: spritezombie_26
+  - first:
+      213: -7411558474180261649
+    second: spritezombie_27
+  - first:
+      213: -4918550797516142415
+    second: spritezombie_28
+  - first:
+      213: 3369924905314012000
+    second: spritezombie_29
+  - first:
+      213: 8666827555559912581
+    second: spritezombie_30
+  - first:
+      213: -2967077521653524224
+    second: spritezombie_31
+  - first:
+      213: -372703724980600893
+    second: spritezombie_32
+  - first:
+      213: -7288118741950333588
+    second: spritezombie_33
+  - first:
+      213: 1631470037892453273
+    second: spritezombie_34
+  - first:
+      213: 2710818509229856265
+    second: spritezombie_35
+  - first:
+      213: -5029310228689308599
+    second: spritezombie_36
+  - first:
+      213: -8837677870336124903
+    second: spritezombie_37
+  - first:
+      213: -3199808477482755730
+    second: spritezombie_38
+  - first:
+      213: 1579680858308329589
+    second: spritezombie_39
+  - first:
+      213: 273065764771864098
+    second: spritezombie_40
+  - first:
+      213: -8921492869350451637
+    second: spritezombie_41
+  - first:
+      213: -1402773752938023259
+    second: spritezombie_42
+  - first:
+      213: -2762599580438956096
+    second: spritezombie_43
+  - first:
+      213: -6285613842726063014
+    second: spritezombie_44
+  - first:
+      213: -4003785113221697610
+    second: spritezombie_45
+  - first:
+      213: -6350850066099179014
+    second: spritezombie_46
+  - first:
+      213: -7651015098604008110
+    second: spritezombie_47
+  - first:
+      213: -9000009592306807233
+    second: spritezombie_48
+  - first:
+      213: 108059082192496164
+    second: spritezombie_49
+  - first:
+      213: 5123121182158745129
+    second: spritezombie_50
+  - first:
+      213: -9147441238982674771
+    second: spritezombie_51
+  - first:
+      213: -2664570589320076827
+    second: spritezombie_52
+  - first:
+      213: 1892833945979659741
+    second: spritezombie_53
+  - first:
+      213: 5038172400285406263
+    second: spritezombie_54
+  - first:
+      213: -6549787109489774716
+    second: spritezombie_55
+  - first:
+      213: 2938564017512544964
+    second: spritezombie_56
+  - first:
+      213: -1626916586622341308
+    second: spritezombie_57
+  - first:
+      213: -5550933437191319716
+    second: spritezombie_58
+  - first:
+      213: -4529367228601574881
+    second: spritezombie_59
+  - first:
+      213: 2966343998080662732
+    second: spritezombie_60
+  - first:
+      213: 5562649188363447377
+    second: spritezombie_61
+  - first:
+      213: 9041747176886009996
+    second: spritezombie_62
+  - first:
+      213: -5523679025111963181
+    second: spritezombie_63
+  - first:
+      213: 4646078633610814306
+    second: spritezombie_64
+  - first:
+      213: -1862684900976366876
+    second: spritezombie_65
+  - first:
+      213: 6380441630754712199
+    second: spritezombie_66
+  - first:
+      213: -6471364834237115266
+    second: spritezombie_67
+  - first:
+      213: 2136535989146998665
+    second: spritezombie_68
+  - first:
+      213: -256911869402685520
+    second: spritezombie_69
+  - first:
+      213: 1376668650295222943
+    second: spritezombie_70
+  - first:
+      213: 2257982342698908392
+    second: spritezombie_71
+  - first:
+      213: -6704689783636278062
+    second: spritezombie_72
+  - first:
+      213: -6809027743999137613
+    second: spritezombie_73
+  - first:
+      213: -1631597650723473961
+    second: spritezombie_74
+  - first:
+      213: 2979574371781408347
+    second: spritezombie_75
+  - first:
+      213: -3702513282539760524
+    second: spritezombie_76
+  - first:
+      213: -8683632257094663225
+    second: spritezombie_77
+  - first:
+      213: -1008229577783840651
+    second: spritezombie_78
+  - first:
+      213: -4500640780029241828
+    second: spritezombie_79
+  - first:
+      213: 6024451946168067232
+    second: spritezombie_80
+  - first:
+      213: -2979379426618960777
+    second: spritezombie_81
+  - first:
+      213: 6678154599802089449
+    second: spritezombie_82
+  - first:
+      213: -7176639745016247793
+    second: spritezombie_83
+  - first:
+      213: 7864913988754816741
+    second: spritezombie_84
+  - first:
+      213: -6703216221538577510
+    second: spritezombie_85
+  - first:
+      213: -6361917893228846423
+    second: spritezombie_86
+  - first:
+      213: 4167232957731984765
+    second: spritezombie_87
+  - first:
+      213: 337458057641058195
+    second: spritezombie_88
+  - first:
+      213: 789660082317057097
+    second: spritezombie_89
+  - first:
+      213: -2733155297083718207
+    second: spritezombie_90
+  - first:
+      213: 7805492695433951205
+    second: spritezombie_91
+  - first:
+      213: 89056725331708900
+    second: spritezombie_92
+  - first:
+      213: -8282331437275885738
+    second: spritezombie_93
+  - first:
+      213: -7669218997405439775
+    second: spritezombie_94
+  - first:
+      213: -6841124050194356572
+    second: spritezombie_95
+  - first:
+      213: -2994773676354127377
+    second: spritezombie_96
+  - first:
+      213: -2212259828642633861
+    second: spritezombie_97
+  - first:
+      213: 1709935602931071180
+    second: spritezombie_98
+  - first:
+      213: 241594595008879410
+    second: spritezombie_99
+  - first:
+      213: 7766459739953251453
+    second: spritezombie_100
+  - first:
+      213: 6383835366701009580
+    second: spritezombie_101
+  - first:
+      213: 282546887582040884
+    second: spritezombie_102
+  - first:
+      213: 1615856349505879300
+    second: spritezombie_103
+  - first:
+      213: 6145736441336852452
+    second: spritezombie_104
+  - first:
+      213: -2728696485081733226
+    second: spritezombie_105
+  - first:
+      213: 1556382486342103030
+    second: spritezombie_106
+  - first:
+      213: 474145607950807796
+    second: spritezombie_107
+  - first:
+      213: 3090561230174023669
+    second: spritezombie_108
+  - first:
+      213: -1925608318770743544
+    second: spritezombie_109
+  - first:
+      213: -3349894141544489715
+    second: spritezombie_110
+  - first:
+      213: 5271140712044869660
+    second: spritezombie_111
+  - first:
+      213: -7304071516921174499
+    second: spritezombie_112
+  - first:
+      213: 9161822358072549199
+    second: spritezombie_113
+  - first:
+      213: 2641192575811983049
+    second: spritezombie_114
+  - first:
+      213: 6510833296349169588
+    second: spritezombie_115
+  - first:
+      213: -2909719345120177313
+    second: spritezombie_116
+  - first:
+      213: -3718878103631367710
+    second: spritezombie_117
+  - first:
+      213: -8106713750497028728
+    second: spritezombie_118
+  - first:
+      213: 8390274820862447884
+    second: spritezombie_119
+  - first:
+      213: 9152185617139803896
+    second: spritezombie_120
+  - first:
+      213: -5489815771371764632
+    second: spritezombie_121
+  - first:
+      213: -3153125072486940298
+    second: spritezombie_122
+  - first:
+      213: -5186865334781927292
+    second: spritezombie_123
+  - first:
+      213: 4733690667301575622
+    second: spritezombie_124
+  - first:
+      213: -4875797727314632686
+    second: spritezombie_125
+  - first:
+      213: 8545815248288176066
+    second: spritezombie_126
+  - first:
+      213: 2190947418342985184
+    second: spritezombie_127
+  - first:
+      213: -7335983931368195735
+    second: spritezombie_128
+  - first:
+      213: -113689030030672187
+    second: spritezombie_129
+  - first:
+      213: -7800838208758415003
+    second: spritezombie_130
+  - first:
+      213: -1311438844794827733
+    second: spritezombie_131
+  - first:
+      213: -737640019934076161
+    second: spritezombie_132
+  - first:
+      213: 2116902689115079262
+    second: spritezombie_133
+  - first:
+      213: 4447973475718291435
+    second: spritezombie_134
+  - first:
+      213: -4721361563486982280
+    second: spritezombie_135
+  - first:
+      213: -7618286262861578607
+    second: spritezombie_136
+  - first:
+      213: 3801708854033694117
+    second: spritezombie_137
+  - first:
+      213: -2672194125579113085
+    second: spritezombie_138
+  - first:
+      213: -8504152782955890610
+    second: spritezombie_139
+  - first:
+      213: 9077521942711867691
+    second: spritezombie_140
+  - first:
+      213: 7384798811392830646
+    second: spritezombie_141
+  - first:
+      213: 7843965661072910283
+    second: spritezombie_142
+  - first:
+      213: 6408750269553937081
+    second: spritezombie_143
+  - first:
+      213: 5795595123472476844
+    second: spritezombie_144
+  - first:
+      213: -4097817952538104899
+    second: spritezombie_145
+  - first:
+      213: 8565171286009827907
+    second: spritezombie_146
+  - first:
+      213: 6264224857312728054
+    second: spritezombie_147
+  - first:
+      213: -8783368967052306275
+    second: spritezombie_148
+  - first:
+      213: -5081980787225507976
+    second: spritezombie_149
+  - first:
+      213: -5719822799757275228
+    second: spritezombie_150
+  - first:
+      213: 4467201506872565813
+    second: spritezombie_151
+  - first:
+      213: -3590217148235958543
+    second: spritezombie_152
+  - first:
+      213: 2570690600524606071
+    second: spritezombie_153
+  - first:
+      213: 1981851110523497928
+    second: spritezombie_154
+  - first:
+      213: 2114749991766427059
+    second: spritezombie_155
+  - first:
+      213: -2334467688011613809
+    second: spritezombie_156
+  - first:
+      213: -5687764081185534973
+    second: spritezombie_157
+  - first:
+      213: 1091628116539491490
+    second: spritezombie_158
+  - first:
+      213: 5618210004415502262
+    second: spritezombie_159
+  - first:
+      213: 190878628718121695
+    second: spritezombie_160
+  - first:
+      213: -1096934150501983610
+    second: spritezombie_161
+  - first:
+      213: 4791026969800624577
+    second: spritezombie_162
+  - first:
+      213: -1447343893705537648
+    second: spritezombie_163
+  - first:
+      213: 7116758302525048506
+    second: spritezombie_164
+  - first:
+      213: 3947100714812443443
+    second: spritezombie_165
+  - first:
+      213: -681219941533650256
+    second: spritezombie_166
+  - first:
+      213: -5427761393356225124
+    second: spritezombie_167
+  - first:
+      213: -7461811976447022353
+    second: spritezombie_168
+  - first:
+      213: 2365351084561136793
+    second: spritezombie_169
+  - first:
+      213: -1737834951995262662
+    second: spritezombie_170
+  - first:
+      213: 2172196144980099815
+    second: spritezombie_171
+  - first:
+      213: 7373442108657657100
+    second: spritezombie_172
+  - first:
+      213: -7986993224202843439
+    second: spritezombie_173
+  - first:
+      213: 3373186793514643022
+    second: spritezombie_174
+  - first:
+      213: 8833426913361234276
+    second: spritezombie_175
+  - first:
+      213: 6494970097471096536
+    second: spritezombie_176
+  - first:
+      213: -5670164382503000011
+    second: spritezombie_177
+  - first:
+      213: 8271259446455755277
+    second: spritezombie_178
+  - first:
+      213: 2949376539130210204
+    second: spritezombie_179
+  - first:
+      213: -7054205586390060895
+    second: spritezombie_180
+  - first:
+      213: 6355568116728999909
+    second: spritezombie_181
+  - first:
+      213: 8016613370842677131
+    second: spritezombie_182
+  - first:
+      213: 3520213937060288034
+    second: spritezombie_183
+  - first:
+      213: -2935746310658250186
+    second: spritezombie_184
+  - first:
+      213: 5274901134210855742
+    second: spritezombie_185
+  - first:
+      213: 6904516012205617347
+    second: spritezombie_186
+  - first:
+      213: -4034607611296256649
+    second: spritezombie_187
+  - first:
+      213: -7052829571477042547
+    second: spritezombie_188
+  - first:
+      213: -7820650607428938217
+    second: spritezombie_189
+  - first:
+      213: -1881170516986579246
+    second: spritezombie_190
+  - first:
+      213: 9204875686195307280
+    second: spritezombie_191
+  - first:
+      213: -4164170462475264963
+    second: spritezombie_192
+  - first:
+      213: 4326440853052577687
+    second: spritezombie_193
+  - first:
+      213: -181981724356358982
+    second: spritezombie_194
+  - first:
+      213: 7187889119336712249
+    second: spritezombie_195
+  - first:
+      213: 4906381160147469641
+    second: spritezombie_196
+  - first:
+      213: 7980592737953128818
+    second: spritezombie_197
+  - first:
+      213: -5567680513254005246
+    second: spritezombie_198
+  - first:
+      213: -4684926869995115551
+    second: spritezombie_199
+  - first:
+      213: -1014170970465089080
+    second: spritezombie_200
+  - first:
+      213: -1225535194529091461
+    second: spritezombie_201
+  - first:
+      213: -5284870978708655586
+    second: spritezombie_202
+  - first:
+      213: 2658774418448120364
+    second: spritezombie_203
+  - first:
+      213: 2875705913270947367
+    second: spritezombie_204
+  - first:
+      213: -3112907211587451454
+    second: spritezombie_205
+  - first:
+      213: -2068346621989725729
+    second: spritezombie_206
+  - first:
+      213: 6438206457635382024
+    second: spritezombie_207
+  - first:
+      213: 5012946810607873954
+    second: spritezombie_208
+  - first:
+      213: 6520532286312644746
+    second: spritezombie_209
+  - first:
+      213: 8273872737052714090
+    second: spritezombie_210
+  - first:
+      213: 6830108979904976531
+    second: spritezombie_211
+  - first:
+      213: 9137781094304093627
+    second: spritezombie_212
+  - first:
+      213: -8167820533912471011
+    second: spritezombie_213
+  - first:
+      213: -7251937849888425850
+    second: spritezombie_214
+  - first:
+      213: -2057802110405564350
+    second: spritezombie_215
+  - first:
+      213: 7555619240405834213
+    second: spritezombie_216
+  - first:
+      213: 8673713487950809017
+    second: spritezombie_217
+  - first:
+      213: 8887356305517331600
+    second: spritezombie_218
+  - first:
+      213: 4917318204899774577
+    second: spritezombie_219
+  - first:
+      213: -4926971348747501748
+    second: spritezombie_220
+  - first:
+      213: -8191836961473873652
+    second: spritezombie_221
+  - first:
+      213: 2576677311402000032
+    second: spritezombie_222
+  - first:
+      213: -5002186372702160753
+    second: spritezombie_223
+  - first:
+      213: -3296753779008100770
+    second: spritezombie_224
+  - first:
+      213: -6097942787560169158
+    second: spritezombie_225
+  - first:
+      213: -3785771914992934276
+    second: spritezombie_226
+  - first:
+      213: 3957761344456739014
+    second: spritezombie_227
+  - first:
+      213: 964263505194510803
+    second: spritezombie_228
+  - first:
+      213: 2333420608924104953
+    second: spritezombie_229
+  - first:
+      213: 3422486675455778916
+    second: spritezombie_230
+  - first:
+      213: -63603297040240128
+    second: spritezombie_231
+  - first:
+      213: -1946586078747949733
+    second: spritezombie_232
+  - first:
+      213: 332955504856141476
+    second: spritezombie_233
+  - first:
+      213: 9137019577389743248
+    second: spritezombie_234
+  - first:
+      213: 7333872878450670393
+    second: spritezombie_235
+  - first:
+      213: -719085209095232341
+    second: spritezombie_236
+  - first:
+      213: -1660921245211361793
+    second: spritezombie_237
+  - first:
+      213: 8795086886308135067
+    second: spritezombie_238
+  - first:
+      213: 4154261286112520711
+    second: spritezombie_239
+  - first:
+      213: -4031105130549590268
+    second: spritezombie_240
+  - first:
+      213: -4966327415143569455
+    second: spritezombie_241
+  - first:
+      213: 614530145322177305
+    second: spritezombie_242
+  - first:
+      213: 2130522240160746584
+    second: spritezombie_243
+  - first:
+      213: -8287939044069966685
+    second: spritezombie_244
+  - first:
+      213: 8500357702570881055
+    second: spritezombie_245
+  - first:
+      213: -8983588671280532448
+    second: spritezombie_246
+  - first:
+      213: 3885804503229082606
+    second: spritezombie_247
+  - first:
+      213: -1920445725503232364
+    second: spritezombie_248
+  - first:
+      213: 5586147600375026947
+    second: spritezombie_249
+  - first:
+      213: 2120628033248320563
+    second: spritezombie_250
+  - first:
+      213: 7794529857719832894
+    second: spritezombie_251
+  - first:
+      213: 7999359132188515983
+    second: spritezombie_252
+  - first:
+      213: 7512869355007864164
+    second: spritezombie_253
+  - first:
+      213: 6992586846982372238
+    second: spritezombie_254
+  - first:
+      213: -2902645409881185480
+    second: spritezombie_255
+  - first:
+      213: 499901882990700563
+    second: spritezombie_256
+  - first:
+      213: 6027283615176780179
+    second: spritezombie_257
+  - first:
+      213: 87311412801615288
+    second: spritezombie_258
+  - first:
+      213: 345232871363223709
+    second: spritezombie_259
+  - first:
+      213: 7619064974437730749
+    second: spritezombie_260
+  - first:
+      213: -5695508604825590939
+    second: spritezombie_261
+  - first:
+      213: -434259411451000868
+    second: spritezombie_262
+  - first:
+      213: -986238066079469640
+    second: spritezombie_263
+  - first:
+      213: 3783151831542103837
+    second: spritezombie_264
+  - first:
+      213: -8403690265814617285
+    second: spritezombie_265
+  - first:
+      213: 595726075345604779
+    second: spritezombie_266
+  - first:
+      213: 9016115009051725708
+    second: spritezombie_267
+  - first:
+      213: -8105084959640333725
+    second: spritezombie_268
+  - first:
+      213: 8494096366179440695
+    second: spritezombie_269
+  - first:
+      213: -8040885424864311528
+    second: spritezombie_270
+  - first:
+      213: -6744188531778096162
+    second: spritezombie_271
+  - first:
+      213: 5625306087718914102
+    second: spritezombie_272
+  - first:
+      213: 1675786960145480144
+    second: spritezombie_273
+  - first:
+      213: 5619486687781718230
+    second: spritezombie_274
+  - first:
+      213: -257667326577487979
+    second: spritezombie_275
+  - first:
+      213: 3887951819939128615
+    second: spritezombie_276
+  - first:
+      213: 326760193770717586
+    second: spritezombie_277
+  - first:
+      213: -2408759913041773301
+    second: spritezombie_278
+  - first:
+      213: -7978102669938289987
+    second: spritezombie_279
+  - first:
+      213: 153921063314368256
+    second: spritezombie_280
+  - first:
+      213: 8523740664562194202
+    second: spritezombie_281
+  - first:
+      213: 8213622155167315000
+    second: spritezombie_282
+  - first:
+      213: 2196795518058948426
+    second: spritezombie_283
+  - first:
+      213: 7304680371782319094
+    second: spritezombie_284
+  - first:
+      213: -5299475791996311411
+    second: spritezombie_285
+  - first:
+      213: 6812217057220449113
+    second: spritezombie_286
+  - first:
+      213: 8927600251590837189
+    second: spritezombie_287
+  - first:
+      213: 213768452418568976
+    second: spritezombie_288
+  - first:
+      213: -2923645536751532540
+    second: spritezombie_289
+  - first:
+      213: 4115684140908296911
+    second: spritezombie_290
+  - first:
+      213: 5543722183293277662
+    second: spritezombie_291
+  - first:
+      213: -1668530060039465468
+    second: spritezombie_292
+  - first:
+      213: -9004529189205027479
+    second: spritezombie_293
+  - first:
+      213: -4476806522863422295
+    second: spritezombie_294
+  - first:
+      213: -2138514446148933491
+    second: spritezombie_295
+  - first:
+      213: 1698984990176255362
+    second: spritezombie_296
+  - first:
+      213: -2768689549697715915
+    second: spritezombie_297
+  - first:
+      213: 3477669774107005232
+    second: spritezombie_298
+  - first:
+      213: -1671248498173005141
+    second: spritezombie_299
+  - first:
+      213: 7492688553905945816
+    second: spritezombie_300
+  - first:
+      213: -7044909206921013253
+    second: spritezombie_301
+  - first:
+      213: -4319353995007311253
+    second: spritezombie_302
+  - first:
+      213: 9110357184719666970
+    second: spritezombie_303
+  - first:
+      213: 199541301354855025
+    second: spritezombie_304
+  - first:
+      213: -2734813797778013259
+    second: spritezombie_305
+  - first:
+      213: 6808559615821994349
+    second: spritezombie_306
+  - first:
+      213: 8499317052982074243
+    second: spritezombie_307
+  - first:
+      213: 8235283798818508424
+    second: spritezombie_308
+  - first:
+      213: -3784230313104776095
+    second: spritezombie_309
+  - first:
+      213: -5355629496350927643
+    second: spritezombie_310
+  - first:
+      213: 5805130274133609393
+    second: spritezombie_311
+  - first:
+      213: -2216685848135815441
+    second: spritezombie_312
+  - first:
+      213: -7667736639355362742
+    second: spritezombie_313
+  - first:
+      213: 5864171307652473912
+    second: spritezombie_314
+  - first:
+      213: -1106263092493691670
+    second: spritezombie_315
+  - first:
+      213: 4515955402303894877
+    second: spritezombie_316
+  - first:
+      213: 4286730053945168388
+    second: spritezombie_317
+  - first:
+      213: 6991027977790044243
+    second: spritezombie_318
+  - first:
+      213: 8535870554690248780
+    second: spritezombie_319
+  - first:
+      213: 2845674431324820321
+    second: spritezombie_320
+  - first:
+      213: 6110629005748125905
+    second: spritezombie_321
+  - first:
+      213: -8068151950872503303
+    second: spritezombie_322
+  - first:
+      213: 5198845047830060207
+    second: spritezombie_323
+  - first:
+      213: 6406537872959739994
+    second: spritezombie_324
+  - first:
+      213: -5358311997709486176
+    second: spritezombie_325
+  - first:
+      213: 2573065620355149308
+    second: spritezombie_326
+  - first:
+      213: -4060963009197184148
+    second: spritezombie_327
+  - first:
+      213: 3183649873721549399
+    second: spritezombie_328
+  - first:
+      213: 487006859581276454
+    second: spritezombie_329
+  - first:
+      213: -7810399127711611190
+    second: spritezombie_330
+  - first:
+      213: -3210844914937686475
+    second: spritezombie_331
+  - first:
+      213: 1870470805992469556
+    second: spritezombie_332
+  - first:
+      213: 2190866052118116823
+    second: spritezombie_333
+  - first:
+      213: 169944077812732623
+    second: spritezombie_334
+  - first:
+      213: 6475588132730177917
+    second: spritezombie_335
+  - first:
+      213: -6295666474363136528
+    second: spritezombie_336
+  - first:
+      213: -2171799258778077064
+    second: spritezombie_337
+  - first:
+      213: -1027065625999708938
+    second: spritezombie_338
+  - first:
+      213: 913428993852979980
+    second: spritezombie_339
+  - first:
+      213: -2817285866448397563
+    second: spritezombie_340
+  - first:
+      213: 1553358856172558731
+    second: spritezombie_341
+  - first:
+      213: 6470599568708569909
+    second: spritezombie_342
+  - first:
+      213: 3940219002123407433
+    second: spritezombie_343
+  - first:
+      213: 8783686742620975516
+    second: spritezombie_344
+  - first:
+      213: -5744661948346361613
+    second: spritezombie_345
+  - first:
+      213: -1960582095481641714
+    second: spritezombie_346
+  - first:
+      213: -4230799312070555550
+    second: spritezombie_347
+  - first:
+      213: 8797421149780299140
+    second: spritezombie_348
+  - first:
+      213: -1800989816347144825
+    second: spritezombie_349
+  - first:
+      213: 6654450148065457968
+    second: spritezombie_350
+  - first:
+      213: -8097683620206151355
+    second: spritezombie_351
+  - first:
+      213: -7302414815338450263
+    second: spritezombie_352
+  - first:
+      213: 539628077259737524
+    second: spritezombie_353
+  - first:
+      213: 7024654792038259951
+    second: spritezombie_354
+  - first:
+      213: -7712325489923597686
+    second: spritezombie_355
+  - first:
+      213: 7737162286881788698
+    second: spritezombie_356
+  - first:
+      213: 485707259571559426
+    second: spritezombie_357
+  - first:
+      213: 1928510979183534740
+    second: spritezombie_358
+  - first:
+      213: 8454962218664494391
+    second: spritezombie_359
+  - first:
+      213: 5781550183833407352
+    second: spritezombie_360
+  - first:
+      213: -4427503363679754702
+    second: spritezombie_361
+  - first:
+      213: 3691253392360856202
+    second: spritezombie_362
+  - first:
+      213: 5116481646820769232
+    second: spritezombie_363
+  - first:
+      213: -6160365384751962158
+    second: spritezombie_364
+  - first:
+      213: 639992226703683367
+    second: spritezombie_365
+  - first:
+      213: 683124757657646087
+    second: spritezombie_366
+  - first:
+      213: 399519656235792457
+    second: spritezombie_367
+  - first:
+      213: -7606274776749584224
+    second: spritezombie_368
+  - first:
+      213: -3185076228725154379
+    second: spritezombie_369
+  - first:
+      213: 2491092876252424204
+    second: spritezombie_370
+  - first:
+      213: 5375330829251059576
+    second: spritezombie_371
+  - first:
+      213: 4805297321830201669
+    second: spritezombie_372
+  - first:
+      213: 6064606654487136765
+    second: spritezombie_373
+  - first:
+      213: 1222959529008122683
+    second: spritezombie_374
+  - first:
+      213: -5384999579718497711
+    second: spritezombie_375
+  - first:
+      213: -3089991487970912094
+    second: spritezombie_376
+  - first:
+      213: -4478252116743868530
+    second: spritezombie_377
+  - first:
+      213: 4441353474350270833
+    second: spritezombie_378
+  - first:
+      213: 1556185261281052107
+    second: spritezombie_379
+  - first:
+      213: -8251458023122804010
+    second: spritezombie_380
+  - first:
+      213: -6643573720400586808
+    second: spritezombie_381
+  - first:
+      213: -6548815326646296619
+    second: spritezombie_382
+  - first:
+      213: -2658113678489102704
+    second: spritezombie_383
+  - first:
+      213: -5442792214837028360
+    second: spritezombie_3
+  - first:
+      213: -6612585457442130470
+    second: spritezombie 1_0
+  - first:
+      213: 3041212763994256289
+    second: spritezombie 1_1
+  - first:
+      213: -5943196260536998913
+    second: spritezombie 1_2
+  - first:
+      213: -2172438109134205248
+    second: spritezombie 1_3
+  - first:
+      213: 3406581547344479226
+    second: spritezombie 1_4
+  - first:
+      213: -6093592497071191650
+    second: spritezombie 1_5
+  - first:
+      213: -912774527282717036
+    second: spritezombie 1_6
+  - first:
+      213: 2596259609240531717
+    second: spritezombie 1_7
+  - first:
+      213: 6338670155813361966
+    second: spritezombie 1_8
+  - first:
+      213: 2500312418743959575
+    second: spritezombie 1_9
+  - first:
+      213: -1283036065318528398
+    second: spritezombie 1_10
+  - first:
+      213: -2713904262563649579
+    second: spritezombie 1_11
+  - first:
+      213: 7680702319598527482
+    second: spritezombie 1_12
+  - first:
+      213: -617297369632095144
+    second: spritezombie 1_13
+  - first:
+      213: 8735098631580759907
+    second: spritezombie 1_14
+  - first:
+      213: 4446743945887162077
+    second: spritezombie 1_15
+  - first:
+      213: -5196699124890825837
+    second: spritezombie 1_16
+  - first:
+      213: -5288592043545458314
+    second: spritezombie 1_17
+  - first:
+      213: 1118460514806231939
+    second: spritezombie 1_18
+  - first:
+      213: 627001256989991246
+    second: spritezombie 1_19
+  - first:
+      213: 8914617536110869644
+    second: spritezombie 1_20
+  - first:
+      213: 4002444035917512364
+    second: spritezombie 1_21
+  - first:
+      213: -631777765921110535
+    second: spritezombie 1_22
+  - first:
+      213: 4999518023291480154
+    second: spritezombie 1_23
+  - first:
+      213: -3305942039997519696
+    second: spritezombie 1_24
+  - first:
+      213: -1026442420776938574
+    second: spritezombie 1_25
+  - first:
+      213: -1793678155783095534
+    second: spritezombie 1_26
+  - first:
+      213: 4820579225090099071
+    second: spritezombie 1_27
+  - first:
+      213: -8760503767100102002
+    second: spritezombie 1_28
+  - first:
+      213: -2027819103692841850
+    second: spritezombie 1_29
+  - first:
+      213: 6285332171361714980
+    second: spritezombie 1_30
+  - first:
+      213: -7592928219551013016
+    second: spritezombie 1_31
+  - first:
+      213: -7642988926149109700
+    second: spritezombie 1_32
+  - first:
+      213: -6384810263231404547
+    second: spritezombie 1_33
+  - first:
+      213: 5362289923863023147
+    second: spritezombie 1_34
+  - first:
+      213: 2251129224116881422
+    second: spritezombie 1_35
+  - first:
+      213: 7402429602950012526
+    second: spritezombie 1_36
+  - first:
+      213: 6571998572597194878
+    second: spritezombie 1_37
+  - first:
+      213: 7943448117229822490
+    second: spritezombie 1_38
+  - first:
+      213: -1373328925466377725
+    second: spritezombie 1_39
+  - first:
+      213: -1676690263531973923
+    second: spritezombie 1_40
+  - first:
+      213: -4694786071101609270
+    second: spritezombie 1_41
+  - first:
+      213: -9026832361348494075
+    second: spritezombie 1_42
+  - first:
+      213: -3601401822877004007
+    second: spritezombie 1_43
+  - first:
+      213: -6211353861493242304
+    second: spritezombie 1_44
+  - first:
+      213: -6015510279851423759
+    second: spritezombie 1_45
+  - first:
+      213: 4983734026983578225
+    second: spritezombie 1_46
+  - first:
+      213: -3083079764754067549
+    second: spritezombie 1_47
+  - first:
+      213: 8983073689381825426
+    second: spritezombie 1_48
+  - first:
+      213: -7277784653441001139
+    second: spritezombie 1_49
+  - first:
+      213: -242873112764222286
+    second: spritezombie 1_50
+  - first:
+      213: -6264315249854484343
+    second: spritezombie 1_51
+  - first:
+      213: 5393855965775814613
+    second: spritezombie 1_52
+  - first:
+      213: -449000201519149274
+    second: spritezombie 1_53
+  - first:
+      213: -3451696376033750735
+    second: spritezombie 1_54
+  - first:
+      213: 7070596944354359934
+    second: spritezombie 1_55
+  - first:
+      213: -2264269349651267953
+    second: spritezombie 1_56
+  - first:
+      213: -588302728944886930
+    second: spritezombie 1_57
+  - first:
+      213: -288236538594004185
+    second: spritezombie 1_58
+  - first:
+      213: 9167948884244931012
+    second: spritezombie 1_59
+  - first:
+      213: -2051753159860943044
+    second: spritezombie 1_60
+  - first:
+      213: -8028217159119016521
+    second: spritezombie 1_61
+  - first:
+      213: -4803628677721855343
+    second: spritezombie 1_62
+  - first:
+      213: -3742288172463654370
+    second: spritezombie 1_63
+  - first:
+      213: -6873885442929535373
+    second: spritezombie 1_64
+  - first:
+      213: -8796881811255166433
+    second: spritezombie 1_65
+  - first:
+      213: -1256923622240402882
+    second: spritezombie 1_66
+  - first:
+      213: 7221375242726216124
+    second: spritezombie 1_67
+  - first:
+      213: 3276306366055016844
+    second: spritezombie 1_68
+  - first:
+      213: -4537246644420413771
+    second: spritezombie 1_69
+  - first:
+      213: -7304269255190833358
+    second: spritezombie 1_70
+  - first:
+      213: -6244195921771718603
+    second: spritezombie 1_71
+  - first:
+      213: 1893342532599037782
+    second: spritezombie 1_72
+  - first:
+      213: 5605684508080266451
+    second: spritezombie 1_73
+  - first:
+      213: -3070426640649222809
+    second: spritezombie 1_74
+  - first:
+      213: 2073681480917119344
+    second: spritezombie 1_75
+  - first:
+      213: 467545873366521756
+    second: spritezombie 1_76
+  - first:
+      213: 4384907060671149730
+    second: spritezombie 1_77
+  - first:
+      213: 4544199093670068670
+    second: spritezombie 1_78
+  - first:
+      213: -8900271823195866695
+    second: spritezombie 1_79
+  - first:
+      213: -7980359395919097020
+    second: spritezombie 1_80
+  - first:
+      213: -7202849857187976121
+    second: spritezombie 1_81
+  - first:
+      213: -7129913231487375563
+    second: spritezombie 1_82
+  - first:
+      213: 8454858722154553301
+    second: spritezombie 1_83
+  - first:
+      213: 6264513876992087420
+    second: spritezombie 1_84
+  - first:
+      213: 6454514220798104954
+    second: spritezombie 1_85
+  - first:
+      213: 7715767788545562846
+    second: spritezombie 1_86
+  - first:
+      213: 4578639485118527176
+    second: spritezombie 1_87
+  - first:
+      213: 7158279607840889754
+    second: spritezombie 1_88
+  - first:
+      213: -7659422909626352374
+    second: spritezombie 1_89
+  - first:
+      213: 2140271737180901412
+    second: spritezombie 1_90
+  - first:
+      213: -4723486817222917035
+    second: spritezombie 1_91
+  - first:
+      213: 6134420883715972152
+    second: spritezombie 1_92
+  - first:
+      213: -7035402343935746658
+    second: spritezombie 1_93
+  - first:
+      213: 5375240813608648250
+    second: spritezombie 1_94
+  - first:
+      213: 197126789937976289
+    second: spritezombie 1_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritezombie 1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd8d4f8cde5d7f0800000000000000
+      internalID: -588302728944886930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f0d1356afffbf0800000000000000
+      internalID: -288236538594004185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ab54bfe81b3f70800000000000000
+      internalID: 9167948884244931012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6fcfc57367801c0800000000000000
+      internalID: -4537246644420413771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371b84efc502aa90800000000000000
+      internalID: -7304269255190833358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5389ade64e82859a0800000000000000
+      internalID: -6244195921771718603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c66db97365a0c90800000000000000
+      internalID: -7202849857187976121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53766dd11b57d0d90800000000000000
+      internalID: -7129913231487375563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df92284631b55570800000000000000
+      internalID: 8454858722154553301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d52c5e7da3d5e90800000000000000
+      internalID: -7035402343935746658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e335d6a01b89a40800000000000000
+      internalID: 5375240813608648250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritezombie 1_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e357f165c55cb200800000000000000
+      internalID: 197126789937976289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

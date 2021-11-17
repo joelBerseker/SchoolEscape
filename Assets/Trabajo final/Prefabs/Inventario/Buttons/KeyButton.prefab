@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 114899707534844298}
   - component: {fileID: 114658108490135318}
   - component: {fileID: 779101760675345585}
+  - component: {fileID: 265024709483838488}
   m_Layer: 5
   m_Name: KeyButton
   m_TagString: Key
@@ -143,4 +144,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 434fb7d4c3311a84da02e371772993eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 1604164073940054, guid: afbe2eac8642fd24dac6b49439344983, type: 3}
+  item: {fileID: 1604164073940054, guid: b73a9df29fa394a418fd2d51bd6671fe, type: 3}
+--- !u!114 &265024709483838488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1083639883097572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f765a410a42d4746aae72bbfd70c05d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keyCode: 1

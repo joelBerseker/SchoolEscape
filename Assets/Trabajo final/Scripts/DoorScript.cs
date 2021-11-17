@@ -13,7 +13,7 @@ public class DoorScript : MonoBehaviour
     public Vector2 offsetClose;
     public Vector2 sizeClose;
     public bool isLocked;
-
+    public int keyCode;
 
     private Inventory inventory;
     private bool triggerEntered=false;
@@ -38,7 +38,7 @@ public class DoorScript : MonoBehaviour
                     Open();
                 else if(IsThereKey()){
                     Open();
-                    //isLocked=false;
+                    isLocked=false;
                 }
                 else{
                     txt.text="BLOQUEADO";

@@ -11,6 +11,10 @@ TagManager:
   - Key
   - Bag
   - Pizarra
+  - Enemy
+  - SpawnPointKey
+  - SpawnPointEnemy
+  - CambioEscenaLaberinto
   layers:
   - Default
   - TransparentFX
@@ -25,8 +29,8 @@ TagManager:
   - FOV
   - BehindFOV
   - Black
-  - 
-  - 
+  - Environment
+  - paredes
   - 
   - 
   - 
@@ -45,9 +49,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Fondo
+  - name: SwordsBlack
     uniqueID: 4247733185
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Swords
+    uniqueID: 2456353309
     locked: 0

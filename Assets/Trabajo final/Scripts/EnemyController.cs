@@ -7,23 +7,38 @@ public class EnemyController : MonoBehaviour
     private Animator myAnim;
     private Transform target;
     public  Transform homepos;
-    [SerializeField]
-    private float speed;
+ 
+    //private float speed=2;
     [SerializeField]
     private float maxrange;
     [SerializeField]
     private float minrange;
     private float time = 0.0f;
+    [SerializeField] 
+    public Transform[] waypoints;
+    [SerializeField]
+    public Vector3 siguientePosicion;
+    [SerializeField]
+    float velocidad = 1.5f;
+    float distanciaCambio = 0.3f;
+    int numeroSiguientePosicion = 0;
 
-   
+
 
     void Start()
     {
+        
         myAnim = GetComponent<Animator>();
+
         target = GameObject.FindGameObjectWithTag("Player").transform;
+        
+        siguientePosicion = waypoints[0].position;
+
+       
     }
     void Update()
     {
+        
         if(Vector3.Distance(target.position, transform.position) <= maxrange&& Vector3.Distance(target.position, transform.position) >= minrange)
         {
             time ++;
@@ -40,19 +55,60 @@ public class EnemyController : MonoBehaviour
         }
         else if(Vector3.Distance(target.position, transform.position) >= maxrange)
         {
-            GoHome();
+
+
+            myAnim.SetBool("Range", true);
+            myAnim.SetFloat("moveX", (siguientePosicion.x - transform.position.x));
+            myAnim.SetFloat("moveY", (siguientePosicion.y - transform.position.y));
+
+            transform.position = Vector3.MoveTowards(
+           transform.position,
+           siguientePosicion,
+           velocidad * Time.deltaTime);
+
+            if (Vector3.Distance(transform.position,
+                siguientePosicion) < distanciaCambio)
+            {
+                numeroSiguientePosicion++;
+                if (numeroSiguientePosicion >= waypoints.Length)
+                    numeroSiguientePosicion = 0;
+                siguientePosicion =
+                    waypoints[numeroSiguientePosicion].position;
+
+            }
+
+        }
+        
+
+
+
+
+
+    }
+    /*
+    void Move()
+    {
+        transform.position = Vector3.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, speed * Time.deltaTime);
+        if (transform.position == waypoints[waypointIndex].transform.position)
+        {
+            waypointIndex ++;
+        }
+        else if (waypointIndex >= waypoints.Length)
+        {
+            Debug.LogError(waypointIndex);
+            waypointIndex = 0;
         }
 
-
-
     }
+    */
+    
     public void FollowPlayer()
     {
-        myAnim.SetBool("Range",true);
         myAnim.SetFloat("moveX", (target.position.x - transform.position.x));
         myAnim.SetFloat("moveY",(target.position.y - transform.position.y));
-        transform.position = Vector3.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+        transform.position = Vector3.MoveTowards(transform.position, target.transform.position, velocidad * Time.deltaTime);
     }
+    /*
     public void GoHome()
     {
         myAnim.SetFloat("moveX", (homepos.position.x - transform.position.x));
@@ -63,5 +119,7 @@ public class EnemyController : MonoBehaviour
             myAnim.SetBool("Range", false);
         }
     }
-    
+    */
+
+
 }

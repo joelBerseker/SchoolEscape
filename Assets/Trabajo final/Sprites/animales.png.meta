@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: afc4cec993a3d824d8f49b777830f03e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5861079316744949861
+    second: animales_0
+  - first:
+      213: -4763000108176173870
+    second: animales_1
+  - first:
+      213: 3918253353019604264
+    second: animales_2
+  - first:
+      213: -7168768001776314733
+    second: animales_3
+  - first:
+      213: 6779603180141524262
+    second: animales_4
+  - first:
+      213: -5031611957406384677
+    second: animales_5
+  - first:
+      213: 7168062159949542207
+    second: animales_6
+  - first:
+      213: -8765014300233456678
+    second: animales_7
+  - first:
+      213: -5629562881348698020
+    second: animales_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animales_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 72
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5803604, y: 0.4190073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d8f2d59cb65150800000000000000
+      internalID: 5861079316744949861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 412
+        width: 72
+        height: 104
+      alignment: 9
+      pivot: {x: 0.54882735, y: 0.5000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4130713ac66edb0800000000000000
+      internalID: -4763000108176173870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 412
+        width: 96
+        height: 92
+      alignment: 9
+      pivot: {x: 0.55195016, y: 0.42361814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d77be2aae606630800000000000000
+      internalID: 3918253353019604264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 240
+        width: 80
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5276511, y: 0.45749557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3969fe0fb7b638c90800000000000000
+      internalID: -7168768001776314733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 235
+        width: 98
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5393602, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625b1762c2df51e50800000000000000
+      internalID: 6779603180141524262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 240
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3f27559f1c2ab0800000000000000
+      internalID: -5031611957406384677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 72
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5306135, y: 0.46986496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3336b37e821a7360800000000000000
+      internalID: 7168062159949542207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 60
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ad57dee96c5680800000000000000
+      internalID: -8765014300233456678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 56
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508c78d266cfd1b0800000000000000
+      internalID: -5629562881348698020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
