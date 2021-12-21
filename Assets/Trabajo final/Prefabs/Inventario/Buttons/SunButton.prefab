@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 114717088732008864}
   - component: {fileID: 114474792728251284}
   - component: {fileID: 7979660174483296518}
+  - component: {fileID: 5965056095924999656}
   m_Layer: 5
   m_Name: SunButton
   m_TagString: Untagged
@@ -119,7 +120,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 5965056095924999656}
         m_MethodName: Use
         m_Mode: 1
         m_Arguments:
@@ -143,3 +144,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 1972283162918958, guid: 5aeb03f0a3b959f4dbdebc4439003715, type: 3}
+--- !u!114 &5965056095924999656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1210040499704410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b432fbc8f38026428acfd583f946933, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosionEffect: {fileID: 1766543500724786, guid: ddaded27990410f40b419766796bc5c9,
+    type: 3}

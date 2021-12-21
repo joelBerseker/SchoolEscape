@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Trabajo final/Scenes/Laberinto.unity
     guid: 5dde11f52f97e774b9b371126a8b520b
+  - enabled: 1
+    path: Assets/Trabajo final/Scenes/Niveles.unity
+    guid: 9e10eadd122c3ca41a37ee61ad987d0c
+  - enabled: 1
+    path: Assets/Trabajo final/Scenes/Nivel02.unity
+    guid: a6bea01a323477c4faec37a12a1f7437
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Trabajo final/Scenes/Nivel04.unity
+    guid: b3e36483691788b4e9e02bc4b818d253
+  - enabled: 1
+    path: Assets/Trabajo final/Scenes/Nivel03.unity
+    guid: 47ee83a529601654ca7c0f0929190ffa
   m_configObjects: {}

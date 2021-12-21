@@ -78,29 +78,8 @@ public class EnemyController : MonoBehaviour
             }
 
         }
-        
-
-
-
-
-
     }
-    /*
-    void Move()
-    {
-        transform.position = Vector3.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, speed * Time.deltaTime);
-        if (transform.position == waypoints[waypointIndex].transform.position)
-        {
-            waypointIndex ++;
-        }
-        else if (waypointIndex >= waypoints.Length)
-        {
-            Debug.LogError(waypointIndex);
-            waypointIndex = 0;
-        }
 
-    }
-    */
     
     public void FollowPlayer()
     {
@@ -120,6 +99,4 @@ public class EnemyController : MonoBehaviour
         }
     }
     */
-
-
 }

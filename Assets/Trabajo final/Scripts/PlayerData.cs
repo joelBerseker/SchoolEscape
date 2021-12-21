@@ -23,7 +23,6 @@ public class PlayerData : MonoBehaviour
         {
             SceneManager.LoadScene("GameOver");
         }
-        
     }
 
     public bool isHealthMax()
