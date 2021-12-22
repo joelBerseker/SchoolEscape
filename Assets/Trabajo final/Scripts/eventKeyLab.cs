@@ -33,7 +33,7 @@ public class eventKeyLab : MonoBehaviour
         {           
             Destroy(other.gameObject);
             Destroy(enemigo);
-            SceneManager.LoadScene("GameWin");
+            SceneManager.LoadScene("Nivel03");
 
 
         }

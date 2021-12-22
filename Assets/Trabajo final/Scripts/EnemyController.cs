@@ -6,7 +6,6 @@ public class EnemyController : MonoBehaviour
 
     private Animator myAnim;
     private Transform target;
-    public  Transform homepos;
  
     //private float speed=2;
     [SerializeField]
@@ -20,7 +19,7 @@ public class EnemyController : MonoBehaviour
     public Vector3 siguientePosicion;
     [SerializeField]
     float velocidad = 1.5f;
-    float distanciaCambio = 0.3f;
+    float distanciaCambio = 0.5f;
     int numeroSiguientePosicion = 0;
 
 
